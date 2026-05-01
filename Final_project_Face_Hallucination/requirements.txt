@@ -1,0 +1,16 @@
+# CPU-only PyTorch is recommended on Windows for this homework project.
+# Install with:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+scikit-image
+torch
+torchvision
+tqdm
+notebook
+pillow
+ipykernel
